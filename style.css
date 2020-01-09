@@ -18,3 +18,8 @@ a {
   padding: 10px;
   color: green;
 }
+
+figcaption {
+  text-align: center
+  
+}
